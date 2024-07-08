@@ -12,7 +12,7 @@
 		</style>
 	</head>
 	<body>
-	  <h2>member에서 넘어온 데이터</h2>
+	  <h2>member.jsp에서 넘어온 데이터</h2>
 	  <form action="memUpdate" method="post">
 	      <input type="hidden" name="id" value="${id}">
 	      <input type="hidden" name="pw" value="${pw}">

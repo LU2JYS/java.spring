@@ -9,8 +9,8 @@
 	<body>
 	  <h2>메인페이지</h2>
 	  <ul>
-	    <li>로그인</li>
-	    <li>회원가입</li>
+	    <li><a href = "/login">로그인</a></li>
+	    <li><a href = "/member">회원가입</a></li>
 	    <li>로그아웃</li>
 	    <li>게시판</li>
 	    <li>회원정보</li>
