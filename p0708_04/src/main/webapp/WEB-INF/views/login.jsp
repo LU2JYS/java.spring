@@ -2,11 +2,12 @@
     pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
-		<head>
+	<head>
 		<meta charset="UTF-8">
-			<title>로그인</title>
-		</head>
+		<title>로그인</title>
+	</head>
 	<body>
-		<h2>로그인페이지</h2>
+	 <h2>로그인페이지</h2>
+	
 	</body>
 </html>
